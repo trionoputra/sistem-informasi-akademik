@@ -1,0 +1,123 @@
+body
+{
+	background:#fff;
+}
+.login-panel
+{
+	background:#2ecc71;
+	border:1px solid #27ae60;
+}
+
+.login-header h3
+{
+	color:#666;
+}
+#header-container
+{
+	height: 75px;background:#fff
+}
+.header-logo
+{
+	height: 75px;float: left;display: block;
+}
+.logo-default
+{
+	margin: 29.5px 0 0 0;
+}
+.header-top-menu
+{
+	margin: 13px 0 0;
+	padding: 0;
+	float: right;
+}
+.navbar-nav>li 
+{
+	float: left;
+}
+
+#menu-container 
+{
+	background:#2ecc71;
+	display: block;
+	height: 51px;
+	clear: both;
+}
+
+#menu-container ul.nav > li > a
+{
+	color:#fff;
+}
+#menu-container ul.nav  li  a:hover
+{
+	color:#fff;
+}
+#menu-container ul.nav li:hover
+{
+	background:#009933;
+}
+
+#menu-container ul.nav li a:hover
+{
+	background:#009933;
+}
+
+#menu-container ul.nav > li.open > a
+{
+	background:#009933;
+}
+
+#menu-container .navbar .container
+{
+	padding-left:0;
+}
+
+.table-small thead
+{
+	font-size:14px;
+}
+.table-small tbody
+{
+	font-size:13px;
+}
+.form-filter
+{
+	float:right;
+	margin-bottom:10px;
+}
+.form-filter .form-inline
+{
+	float:right;
+}
+.form-header
+{
+	margin-top:0px;
+}
+.form-filter-modal
+{
+	float:right;
+	margin-bottom:20px;
+	margin-right:15px;
+	height:40px;
+}
+.modal-dialog.ajax-modal
+{
+	width:940px;
+}
+
+.siswa th
+{
+	font-size:12px;
+}
+.siswa td
+{
+	font-size:11px;
+}
+.siswa-manage tbody tr td
+{
+	border-top:1px solid #fff;
+}
+
+.siswa-manage .col-sm-8
+{
+	padding-left:0;
+}
